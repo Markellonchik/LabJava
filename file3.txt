@@ -1,0 +1,26 @@
+All words count: 78137
+Longest consonant substring: 5
+Longest words count: 23
+Langtry
+birthplace
+cataclysm
+chrysalis
+distinctly
+draughtsman
+dryly
+harshly
+https
+hymns
+idiosyncrasies
+laundryman
+lightly
+nightdress
+nymph
+promptly
+psycho-pathologist
+slightly
+sprightly
+tightly
+unearthly
+unsympathetic
+worldly
